@@ -1,0 +1,22 @@
+{
+  "name": "Wyy_ScrollMenuView",
+  "version": "0.1.0",
+  "summary": "A short description of Wyy_ScrollMenuView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/WXUnderWorld/Wyy_ScrollMenuView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WXUnderWorld": "1281983567@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/WXUnderWorld/Wyy_ScrollMenuView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Wyy_ScrollMenuView/Classes/**/*"
+}

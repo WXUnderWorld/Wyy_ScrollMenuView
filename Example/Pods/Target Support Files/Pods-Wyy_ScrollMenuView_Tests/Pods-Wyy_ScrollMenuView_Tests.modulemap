@@ -1,0 +1,6 @@
+framework module Pods_Wyy_ScrollMenuView_Tests {
+  umbrella header "Pods-Wyy_ScrollMenuView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

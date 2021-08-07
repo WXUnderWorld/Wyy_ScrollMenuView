@@ -1,0 +1,6 @@
+framework module Wyy_ScrollMenuView {
+  umbrella header "Wyy_ScrollMenuView-umbrella.h"
+
+  export *
+  module * { export * }
+}

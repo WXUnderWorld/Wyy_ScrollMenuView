@@ -1,0 +1,16 @@
+PODS:
+  - Wyy_ScrollMenuView (0.1.0)
+
+DEPENDENCIES:
+  - Wyy_ScrollMenuView (from `../`)
+
+EXTERNAL SOURCES:
+  Wyy_ScrollMenuView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Wyy_ScrollMenuView: 255b0c38402de21a22ec944a1ac335a884c088d5
+
+PODFILE CHECKSUM: f3470d54ac08a6943eeb5f121969b34ce15badb9
+
+COCOAPODS: 1.10.1
