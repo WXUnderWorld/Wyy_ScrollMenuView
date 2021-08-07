@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Wyy_ScrollMenuView_Tests' do
+  pod 'Wyy_ScrollMenuView', :path => '../'
+  
+  
+end
